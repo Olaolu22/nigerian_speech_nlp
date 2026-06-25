@@ -40,18 +40,20 @@ This repo documents my personal exploration of these problems — model evaluati
 - [openai/whisper-small](https://huggingface.co/openai/whisper-small)
 - [distilbert-base-uncased](https://huggingface.co/distilbert-base-uncased)
 - [Deepgram Nova](https://deepgram.com/) (API-based, evaluated externally)
+- Google Coloud trancription service also being considered
 
 ---
 
 ## Background
 
-I'm a Mechanical Engineering student at Obafemi Awolowo University (OAU), Ile-Ife — but I've been working on applied ML and NLP projects on the side, particularly around speech recognition for Nigerian contexts. My interest in this space comes partly from working on a real-time speech-to-text system for live events where Nigerian-accented English and language mixing were constant challenges.
+I'm a Mechanical Engineering student at Obafemi Awolowo University (OAU), Ile-Ife — but I've been working on applied ML and NLP projects on the side, particularly around speech recognition for Nigerian contexts. My interest in this space comes partly from working on a real-time speech-to-text system for live events where Nigerian-accented English and language mixing were constant challenges. Overall experience is minimal, but I learn fast, and I'm still learning.
 
 ---
 
 ## Status
 
 Active but informal — this is a portfolio/learning repo, not a production project. Notebooks are documented for readability.
+At the moment, project is on pause due to personal more pressing matters, and minimal resources.
 
 ---
 
