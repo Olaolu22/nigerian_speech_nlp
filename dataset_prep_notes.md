@@ -105,7 +105,7 @@ Manual correction of auto-transcripts is the bottleneck. Issues found:
 |-------|-----------|---------|
 | Pidgin words dropped | High | "e don finish" → "it's done finished" |
 | Yoruba fragments hallucinated | Medium | Yoruba word replaced with phonetically similar English |
-| Proper nouns wrong | Medium | "Ile-Ife" → "early fee", "Abeokuta" → "Abbey Okuta" |
+| Proper nouns wrong | Medium | "Ile-Ife" → "early fee", "Romans" → "Romance" |
 | Tonal stress misread | Low | Subtle — affects punctuation placement, not word identity |
 
 ---
